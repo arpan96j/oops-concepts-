@@ -1,0 +1,12 @@
+Common c++ naming conventions
+1 File name are in snake_case eg. naming_convention
+2 Class names are in PascalCase eg WeatherStation
+3 Function names are in camelCase eg. setTemperature
+4 Variable names are in camelCase eg. averageTemperature
+5 Constants are in UPPER_CASE eg. MAX_SIZE
+6 Private members are in _camelCase or mCamelCase eg. _temp ,mTemp,  mAvgTemp
+
+... more to as i keep on leaning
+
+
+
